@@ -9,8 +9,8 @@ $newline never
     <meta charset="UTF-8">
 
     <title>#{pageTitle pc}
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Sahabi's Mempool Size Statistics">
+    <meta name="author" content="sahabi">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
@@ -24,6 +24,13 @@ $newline never
 
     \<!-- Bootstrap-3.3.7 compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous">
+    <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.js">
+    <script type="text/javascript"src=" https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.time.js ">
+    <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.stack.js">
+    <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.resize.js">
+    <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.selection.js">
+    <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.navigate.js">
+
 
     <script>
       /* The `defaultCsrfMiddleware` Middleware added in Foundation.hs adds a CSRF token to the request cookies. */
